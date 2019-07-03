@@ -14,7 +14,7 @@ def hopper
         :dennis_ritchie => {
           :known_for => "Unix",
           :languages => ["C"]
-        }
+        
      },
       :yukihiro_matsumoto => {
   :known_for => "Ruby",
